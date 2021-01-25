@@ -1,46 +1,46 @@
 - 概述
-  - [什么是 Spring Boot？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#_Spring_Boot_42)
-  - [Spring Boot 有哪些优点？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#Spring_Boot__48)
-  - [Spring Boot 的核心注解是哪个？它主要由哪几个注解组成的？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#Spring_Boot__60)
+  - 什么是 Spring Boot？
+  - Spring Boot 有哪些优点？
+  - Spring Boot 的核心注解是哪个？它主要由哪几个注解组成的？
 - 配置
-  - [什么是 JavaConfig？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#_JavaConfig_76)
-  - [Spring Boot 自动配置原理是什么？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#Spring_Boot__88)
-  - [你如何理解 Spring Boot 配置加载顺序？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#_Spring_Boot__100)
-  - [什么是 YAML？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#_YAML_116)
-  - [YAML 配置的优势在哪里 ?](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#YAML___122)
-  - [Spring Boot 是否可以使用 XML 配置 ?](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#Spring_Boot__XML___134)
-  - [spring boot 核心配置文件是什么？bootstrap.properties 和 application.properties 有何区别 ?](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#spring_boot_bootstrapproperties__applicationproperties___140)
-  - [什么是 Spring Profiles？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#_Spring_Profiles_151)
-  - [如何在自定义端口上运行 Spring Boot 应用程序？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#_Spring_Boot__157)
+  - 什么是 JavaConfig？
+  - Spring Boot 自动配置原理是什么？
+  - 你如何理解 Spring Boot 配置加载顺序？
+  - 什么是 YAML？
+  - YAML 配置的优势在哪里 ?
+  - Spring Boot 是否可以使用 XML 配置 ?
+  - spring boot 核心配置文件是什么？bootstrap.properties 和 application.properties 有何区别 ?
+  - 什么是 Spring Profiles？
+  - 如何在自定义端口上运行 Spring Boot 应用程序？
 - 安全
-  - [如何实现 Spring Boot 应用程序的安全性？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#_Spring_Boot__167)
-  - [比较一下 Spring Security 和 Shiro 各自的优缺点 ?](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#_Spring_Security__Shiro___173)
-  - [Spring Boot 中如何解决跨域问题 ?](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#Spring_Boot___183)
-  - [什么是 CSRF 攻击？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#_CSRF__231)
+  - 如何实现 Spring Boot 应用程序的安全性？
+  - 比较一下 Spring Security 和 Shiro 各自的优缺点 ?
+  - Spring Boot 中如何解决跨域问题 ?
+  - 什么是 CSRF 攻击？
 - 监视器
-  - [Spring Boot 中的监视器是什么？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#Spring_Boot__241)
-  - [如何在 Spring Boot 中禁用 Actuator 端点安全性？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#_Spring_Boot__Actuator__247)
-  - [我们如何监视所有 Spring Boot 微服务？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#_Spring_Boot__253)
+  - Spring Boot 中的监视器是什么？
+  - 如何在 Spring Boot 中禁用 Actuator 端点安全性？
+  - 我们如何监视所有 Spring Boot 微服务？
 - 整合第三方项目
-  - [什么是 WebSockets？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#_WebSockets_263)
-  - [什么是 Spring Data ?](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#_Spring_Data__277)
-  - [什么是 Spring Batch？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#_Spring_Batch_297)
-  - [什么是 FreeMarker 模板？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#_FreeMarker__303)
-  - [如何集成 Spring Boot 和 ActiveMQ？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#_Spring_Boot__ActiveMQ_309)
-  - [什么是 Apache Kafka？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#_Apache_Kafka_315)
-  - [什么是 Swagger？你用 Spring Boot 实现了它吗？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#_Swagger_Spring_Boot__321)
-  - [前后端分离，如何维护接口文档 ?](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#__327)
+  - 什么是 WebSockets？
+  - 什么是 Spring Data ?
+  - 什么是 Spring Batch？
+  - 什么是 FreeMarker 模板？
+  - 如何集成 Spring Boot 和 ActiveMQ？
+  - 什么是 Apache Kafka？
+  - 什么是 Swagger？你用 Spring Boot 实现了它吗？
+  - 前后端分离，如何维护接口文档 ?
 - 其他
-  - [如何重新加载 Spring Boot 上的更改，而无需重新启动服务器？Spring Boot项目如何热部署？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#_Spring_Boot_Spring_Boot_337)
-  - [您使用了哪些 starter maven 依赖项？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#_starter_maven__350)
-  - [Spring Boot 中的 starter 到底是什么 ?](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#Spring_Boot__starter___362)
-  - [spring-boot-starter-parent 有什么用 ?](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#springbootstarterparent___368)
-  - [Spring Boot 打成的 jar 和普通的 jar 有什么区别 ?](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#Spring_Boot__jar__jar___382)
-  - [运行 Spring Boot 有哪几种方式？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#_Spring_Boot__390)
-  - [Spring Boot 需要独立的容器运行吗？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#Spring_Boot__400)
-  - [开启 Spring Boot 特性有哪几种方式？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#_Spring_Boot__406)
-  - [如何使用 Spring Boot 实现异常处理？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#_Spring_Boot__414)
-  - [如何使用 Spring Boot 实现分页和排序？](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#_Spring_Boot__420)
-  - [微服务中如何实现 session 共享 ?](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#_session___426)
-  - [Spring Boot 中如何实现定时任务 ?](https://note.youdao.com/md/?defaultMode=view&fileId=WEB56ad2952d0a187fb908f9924bcc2dca2#Spring_Boot___432)
+  - 如何重新加载 Spring Boot 上的更改，而无需重新启动服务器？Spring Boot项目如何热部署？
+  - 您使用了哪些 starter maven 依赖项？
+  - Spring Boot 中的 starter 到底是什么 ?
+  - spring-boot-starter-parent 有什么用 ?
+  - Spring Boot 打成的 jar 和普通的 jar 有什么区别 ?
+  - 运行 Spring Boot 有哪几种方式？
+  - Spring Boot 需要独立的容器运行吗？
+  - 开启 Spring Boot 特性有哪几种方式？
+  - 如何使用 Spring Boot 实现异常处理？
+  - 如何使用 Spring Boot 实现分页和排序？
+  - 微服务中如何实现 session 共享 ?
+  - Spring Boot 中如何实现定时任务 ?
 
